@@ -1,4 +1,7 @@
----
+---LOOSE LEAF README.md.CO.ID
+AKUDIAKU 191219
+BOOKING id 7167249534593010689
+🟣
 title: 'About {% data variables.product.prodname_projects_v2 %}'
 intro: '{% data variables.product.prodname_projects_v2 %} is an adaptable, flexible tool for planning and tracking work on {% data variables.product.company_short %}.'
 allowTitleToDifferFromFilename: true
@@ -10,7 +13,8 @@ type: overview
 topics:
   - Projects
 ---
-
+7166836958528801794
+⚪perjalanan langit birru⚪
 {% data reusables.projects.projects-beta %}
 
 ## About {% data variables.product.prodname_projects_v2 %}
